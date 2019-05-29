@@ -18,7 +18,7 @@
 #import "ZLPerAccountOfWithdrawVC.h"
 
 @interface ZLPersonalVC ()
-
+/** 底部scrollView */
 @property (nonatomic, strong)UIScrollView *scrollView;
 @property (nonatomic, strong)UIView *containerView;
 @property (nonatomic, strong)ZLPerHeaderView *headerV;
